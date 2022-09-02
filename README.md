@@ -1,7 +1,7 @@
 # Unsupervised-Machine-Learning: Myopia Clusters
 By: Estela Perez
 ## Background
-The purpose of this assignment was to process raw data to fit the machine learning models. Several clustering algorithms were used to explore where the patients could be placed into distinct groups of patients that would be better to analyze separately
+The purpose of this assignment was to process raw data to fit the machine learning models. Several clustering algorithms were used to explore where the patients could be placed into distinct groups of patients that would be better to analyze separately. All in effort to predict myopia, or nearsightedness.
 ## Steps
 #### Part 1: Prepared the Data
 * Used Pandas DataFrame to read in the myopia.csv file
